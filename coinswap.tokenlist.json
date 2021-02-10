@@ -1,6 +1,6 @@
 {
 	"name": "CoinSwap Menu",
-	"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/coinswap_logo.png",
+	"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/coinswap_logo.png",
 	"keywords": ["coinswap", "swap"],
 	"timestamp": "2021-01-14T00:00:00+00:00",
 	"tokens": [
@@ -10,7 +10,7 @@
 			"name": "CoinSwapToken",
 			"symbol": "CST",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_CST.png"
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/asset_CST.png"
 		},
 		{
 			"address": "0x1fFd8E54F0F4d2A471Dd7A7d38B629e865D30b1D",
@@ -18,7 +18,7 @@
 			"name": "WrappedEther",
 			"symbol": "WETH",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_ETH.svg"
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/asset_ETH.svg"
 		},
 		{
 			"address": "0xC8A35234691A2021A28cA90256e8977c2bF8AdeF",
@@ -26,7 +26,7 @@
 			"name": "TetherToken",
 			"symbol": "USDT",
 			"decimals": 18,
-			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_USDT.svg"
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/asset_USDT.svg"
         },
         {
             "address": "0xe4e51eD0a1C3886E3418c0b5F3D024224aAf5F3e",
@@ -34,7 +34,7 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_DAI.svg"
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/asset_DAI.svg"
         },
         {
             "address": "0x7F11Fd37A51409a5dB1b79abb9616B227e780a7E",
@@ -42,7 +42,7 @@
             "name": "USD Coin USDC",
             "symbol": "USDC",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_USDC.svg"
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/asset_USDC.svg"
         },
         {
             "address": "0x51312cf71d562b8db102429f5c830df1c92511a1",
@@ -106,12 +106,12 @@
             "name": "pyb",
             "symbol": "PYB",
             "decimals": 10,
-            "logoURI": "https://raw..com/coinswaporg/token-list-test/master/assets/tokens/0xa2743c24f7efb972f0cfe2134c02f5ab1b786ab1.png"
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-cst/main/assets/tokens/0xa2743c24f7efb972f0cfe2134c02f5ab1b786ab1.png"
         }
 	],
 	"version": {
 		"major": 0,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	}
 }
