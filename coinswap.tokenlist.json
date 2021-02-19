@@ -5,7 +5,7 @@
 	"timestamp": "2021-01-14T00:00:00+00:00",
 	"tokens": [
         {
-			"address": "0x4E7592C1695f8EAcc58EFDaff7a32A9fc24a521B",
+			"address": "0x4902746313Ee49A10605255caCE8608A45A0A526",
 			"chainId": 62760,
 			"name": "CoinSwapToken",
 			"symbol": "CST",
@@ -111,7 +111,7 @@
 	],
 	"version": {
 		"major": 0,
-		"minor": 2,
+		"minor": 3,
 		"patch": 0
 	}
 }
